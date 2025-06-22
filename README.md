@@ -128,7 +128,7 @@ There are various types of SQL Operator:
 ![image](https://github.com/user-attachments/assets/a3668e74-5350-4ada-be74-377989c16521)
 
 ## SQL Arithmetic Operators
-![image](https://github.com/user-attachments/assets/70f724e8-58b3-4c72-a8a6-d5efebf475be)
+![image](https://github.com/user-attachments/assets/2b4b469a-7704-4f42-b9c5-4826bb32c6cd)
 ![image](https://github.com/user-attachments/assets/101bd490-8562-4d11-94a1-13278030c34e)
 
 ## SQL Logical Operators
